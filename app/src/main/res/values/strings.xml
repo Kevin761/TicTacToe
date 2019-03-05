@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="hello_world">Hello Players!</string>
+</resources>
